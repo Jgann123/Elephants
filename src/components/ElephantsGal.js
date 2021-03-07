@@ -48,5 +48,10 @@ box-shadow: inset 5em 1em gold;
 
 
  }
+
+ img:hover {
+
+    opacity: 0.3;
+ }
 `
 
