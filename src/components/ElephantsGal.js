@@ -36,7 +36,8 @@ height: 250px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-box-shadow: inset 5em 1em gold;
+box-shadow: inset 5em 1em yellow ;
+border-radius: 25px;
 
 
  img {
